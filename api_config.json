@@ -1,0 +1,7 @@
+{
+  "BaseUrl": "https://api.siliconflow.cn/v1",
+  "ApiKey": "",
+  "TimeoutSeconds": 30,
+  "MaxRetries": 3,
+  "RetryDelayMs": 1000
+} 
